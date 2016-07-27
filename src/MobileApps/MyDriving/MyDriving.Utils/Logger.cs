@@ -13,7 +13,7 @@ namespace MyDriving.Utils
     {
         static ILogger _instance;
         public static string HockeyAppiOS => "09f39eb0435c431ebe954f6faf3a1537";
-        public static string HockeyAppAndroid => "a8d04f91d07f4e5c91be4034805af61b";
+        public static string HockeyAppAndroid => "33630e917d1e41c2b1998ab6c9778008";
         public static string HockeyAppUWP => "5bff51e242a84d99bddbc6037071656a";
         /// <summary>
         /// You can generate a key from: www.bingmapsportal.com
